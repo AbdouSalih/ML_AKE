@@ -14,3 +14,10 @@ http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 Feature Selection with the Caret R Package
 http://machinelearningmastery.com/feature-selection-with-the-caret-r-package/
 
+Tolls to know  when using python for datascience
+  Explore data: pandas, statsmodels, matplotlib, numpy, unix
+  Build model: scikit-learn, numpy, pandas, scipy
+  Test model: scikit-learn, matplotlib
+  Data products: API, Flask, Django
+  Visualize: D3, Matplotplib, vincent and vega, ggplot
+
