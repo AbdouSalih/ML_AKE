@@ -5,6 +5,9 @@ How to Get Started with Machine Learning in Python
 http://machinelearningmastery.com/how-to-get-started-with-machine-learning-in-python/
 http://machinelearningmastery.com/get-your-hands-dirty-with-scikit-learn-now/
 
+A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library
+http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
 Discover Feature Engineering, How to Engineer Features and How to Get Good at It
 http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
@@ -22,3 +25,6 @@ Tolls to know  when using python for datascience
   Data products: API, Flask, Django
   Visualize: D3, Matplotplib, vincent and vega, ggplot
 
+Mathematical Benchs
+http://mathworld.wolfram.com/RosenbrockFunction.html
+http://www.sfu.ca/~ssurjano/rosen.html
